@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.exam-written{
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 200px;
+	border: 1px solid #000000;
+}
+#wenda_5{
+	border: 1px solid #FF0000;
+	display: inline-block;
+}
+.box{
+	padding: 50px 20px 0px 20px;
+}
+.sign{
+	width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	position: relative;
+	border: 1px solid #000000;
+}
+.sign > p{
+	text-align: center;
+	margin: 10px 0;
+}
+.signIn{
+	width: 100px;
+}
+#uesrName{
+	margin-left: 5px;
+}
+#uesrPwd{
+	margin-left: 21px;
+}
+table{
+	text-align: center;
+	margin:  0 auto;
+}
+th{
+	padding:  2px 5px;
+}
+.name{
+	min-width: 120px;
+}
+.sex{
+	min-width: 60px;
+}
+.btn{
+	border: 1px solid #000000;
+	border-radius: 5px;
+	outline: none;
+	padding: 2px 5px;
+	margin: 2px 5px;
+	cursor: pointer;
+}
+.province{
+	min-width:120px;
+}
+.county,.city{
+	min-width:80px;
+}
+.address{
+	min-width: 120px;
+}
+.operation{
+	min-width: 120px;
+}
+.list{
+	text-align: center;
+	position: relative;
+}
+#add{
+	margin-top: 20px;
+	width: 120px;
+	height: 40px;
+	position: absolute;
+    left: 50%;
+    margin-left: -60px;
+}
+.addUser{
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	position: relative;
+	border: 1px solid #000000;
+}
+p{
+	margin: 10px 0;
+}
+.addIn{
+	width: 120px;
+}
